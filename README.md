@@ -2,6 +2,14 @@ Actor Pool
 
 TO DO:
 
+  1. Design and implent an Actor Pool application
+  2. Displaying actors by category
+
+Libraries:
+
+  1. List Adapter
+  2. RecycleViewPool
+  3. Support design libraries
 
 Screenshots:
 
